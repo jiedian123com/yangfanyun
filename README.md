@@ -1,7 +1,7 @@
 # 扬帆云机场评测与最新官网地址
 
 ## 扬帆云机场官网地址
-最新官网地址：[优信云机场官网](https://jd123.affxc.com/yangfanyun/)
+最新官网地址：[扬帆云机场官网](https://jd123.affxc.com/yangfanyun/)
 
 ## 扬帆云机场怎么样？
 扬帆云机场，使用通用安全高速V2Ray协议，全部节点线路采用隧道中转优化及IPLC高速专线，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
